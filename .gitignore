@@ -1,2 +1,5 @@
 # source_data
 source_data/*
+
+# .venv
+.venv/*
